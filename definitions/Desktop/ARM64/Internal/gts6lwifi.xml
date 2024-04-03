@@ -18,6 +18,7 @@
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\Audio\AudMiniport" Name="GalaxyTabS6WIFI_audmini.inf" ID="GalaxyTabS6WIFI_audmini"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\Audio\Device" Name="qcauddev8150.inf" ID="qcauddev8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\Bluetooth" Name="GalaxyTabS6WIFI_btfmuart.inf" ID="GalaxyTabS6WIFI_btfmuart"/>
+            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\SecurityProcessor" Name="GalaxyTabS6WIFI_sp.inf" ID="GalaxyTabS6WIFI_sp"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\Subsystems" Name="qcsubsys8150.inf" ID="qcsubsys8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Drivers\Touch" Name="fts1ba90a.inf" ID="fts1ba90a"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Extensions\Audio\ACDB" Name="GalaxyTabS6WIFI_acsp.inf" ID="GalaxyTabS6WIFI_acsp"/>
