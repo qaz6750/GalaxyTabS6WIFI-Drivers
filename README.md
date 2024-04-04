@@ -3,7 +3,6 @@
 
 > [!Caution]
 > - **At present, there are some untested drivers in the driver program, so untested drivers will not be installed by default.**
-> - **Samsung may have different firmware signatures for different regional versions. Please note that some samples are needed for investigation.**
 > - **Please make sure not to enter Windows auto repair mode.**
 
 > [!WARNING]
