@@ -27,6 +27,7 @@
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Extensions\Audio\Device" Name="GalaxyTabS6WIFI_auddevext.inf" ID="GalaxyTabS6WIFI_auddevext"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Extensions\HexagonLoader" Name="GalaxyTabS6WIFI_pilext.inf" ID="GalaxyTabS6WIFI_pilext"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Extensions\Subsystems" Name="GalaxyTabS6WIFI_subextadsp.inf" ID="GalaxyTabS6WIFI_subextadsp"/>
+            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI\Extensions\Subsystems" Name="GalaxyTabS6WIFI_subextscss.inf" ID="GalaxyTabS6WIFI_subextscss"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI_MINIMAL\Drivers\SOC\I2C" Name="GalaxyTabS6WIFI_i2c.inf" ID="GalaxyTabS6WIFI_i2c"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI_MINIMAL\Drivers\SOC\SPI" Name="GalaxyTabS6WIFI_spi.inf" ID="GalaxyTabS6WIFI_spi"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.GTS6LWIFI_MINIMAL\Drivers\SOC\TrEE" Name="GalaxyTabS6WIFI_tree.inf" ID="GalaxyTabS6WIFI_tree"/>
